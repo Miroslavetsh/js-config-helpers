@@ -1,0 +1,13 @@
+{
+    "semi": false,
+    "singleQuote": true,
+    "tabWidth": 2,
+    "useTabs": false,
+    "jsxSingleQuote": true,
+    "trailingComma": "es5",
+    "jsxBracketSameLine": true,
+    "importOrder": ["^@core/(.*)$", "^@server/(.*)$", "^@ui/(.*)$", "^[./]"],
+    "importOrderSeparation": true,
+    "experimentalBabelParserPluginsList": ["tsx", "typescript"]
+  }
+  
